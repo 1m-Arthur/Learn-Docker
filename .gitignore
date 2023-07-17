@@ -1,2 +1,4 @@
 /docker-sh/backup/*
 /docker-sh/mongo-data/*
+/compose/bind-mount/data-mongo1/*
+/compose/bind-mount/data-mongo2/*
